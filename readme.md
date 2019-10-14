@@ -1,4 +1,4 @@
-## introduction
+## S-CMS php v3.0 Copyright text input box storage XSS
 
 There is a storage XSS vulnerability in the background of the s-cms enterprise website building system (PHP version). The attacker logs in to the administrator background and puts malicious js code, which will cause all the users visiting the website to be affected by the vulnerability and do great harm.
 
